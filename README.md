@@ -3,7 +3,8 @@ dynamic object
 
 # “运动”主题
 ## 绘图结果，不会制作和上传gif动图是硬伤！！！
-![image](https://github.com/zzh97228/code-draw/blob/master/tree.png)
+![image](https://github.com/Hello-Oliver/Dynamic/blob/master/1.PNG)
+![image](https://github.com/Hello-Oliver/Dynamic/blob/master/2.PNG)
 ## "运动"主题绘图作业链接
 ####    [https://github.com/Hello-Oliver/Dynamic](https://github.com/Hello-Oliver/Dynamic)
 ## 技巧分析
